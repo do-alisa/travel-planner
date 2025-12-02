@@ -1,3 +1,9 @@
+# Travel Planner App
+
+**Live Demo:** https://travel-planner-pi-teal.vercel.app/
+
+<img width="1869" height="1167" alt="download (1)" src="https://github.com/user-attachments/assets/5cd6c35e-5970-424f-8d76-6aff163566c2" />
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
